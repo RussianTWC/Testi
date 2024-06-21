@@ -1,0 +1,11 @@
+﻿  DymArr.c
+  main.c
+C:\Users\Kostya\Desktop\DymArr_and_Test\DymArr_and_Test\main.c(6,12): warning C4098: TestCorectSort: функция типа "void", возвращающая значение
+C:\Users\Kostya\Desktop\DymArr_and_Test\DymArr_and_Test\main.c(21,27): warning C4307: "+": переполнение целой константы со знаком
+C:\Users\Kostya\Desktop\DymArr_and_Test\DymArr_and_Test\main.c(22,27): warning C4307: "+": переполнение целой константы со знаком
+C:\Users\Kostya\Desktop\DymArr_and_Test\DymArr_and_Test\main.c(26,31): warning C4307: "+": переполнение целой константы со знаком
+C:\Users\Kostya\Desktop\DymArr_and_Test\DymArr_and_Test\main.c(26,62): warning C4307: "+": переполнение целой константы со знаком
+  Создание кода...
+  DymArr_and_Test.vcxproj -> C:\Users\Kostya\Desktop\DymArr_and_Test\x64\Debug\DymArr_and_Test.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
